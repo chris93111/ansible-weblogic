@@ -1,4 +1,4 @@
-# ansible-weblogic
+# Ansible weblogic library
 
 Modules Ansible for weblogic
 
