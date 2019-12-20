@@ -10,3 +10,5 @@ WLST
 
 * Ansible (version 2.7)
 * Oracle-OS (versions 6)
+
+Documentation in modules
